@@ -1,0 +1,9 @@
+D:\object_browser\object_browser\bin\Debug\object_browser.exe.config
+D:\object_browser\object_browser\bin\Debug\object_browser.exe
+D:\object_browser\object_browser\bin\Debug\object_browser.pdb
+D:\object_browser\object_browser\obj\Debug\object_browser.csprojResolveAssemblyReference.cache
+D:\object_browser\object_browser\obj\Debug\object_browser.Properties.Resources.resources
+D:\object_browser\object_browser\obj\Debug\object_browser.csproj.GenerateResource.Cache
+D:\object_browser\object_browser\obj\Debug\object_browser.exe
+D:\object_browser\object_browser\obj\Debug\object_browser.pdb
+D:\object_browser\object_browser\obj\Debug\object_browser.object_browser.resources
